@@ -1,0 +1,16 @@
+PODS:
+  - Lcynetworking (0.1.0)
+
+DEPENDENCIES:
+  - Lcynetworking (from `Lib/Lcynetworking`)
+
+EXTERNAL SOURCES:
+  Lcynetworking:
+    :path: Lib/Lcynetworking
+
+SPEC CHECKSUMS:
+  Lcynetworking: 856e8291a625e0884a54468af4ff1d765cbe9ce1
+
+PODFILE CHECKSUM: 8b81fb4c9a1114899791eb6c2c1aeb6ef8a06a4a
+
+COCOAPODS: 1.9.3

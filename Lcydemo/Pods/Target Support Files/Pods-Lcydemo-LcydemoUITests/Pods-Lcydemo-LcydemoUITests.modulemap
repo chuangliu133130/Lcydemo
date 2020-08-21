@@ -1,0 +1,6 @@
+framework module Pods_Lcydemo_LcydemoUITests {
+  umbrella header "Pods-Lcydemo-LcydemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

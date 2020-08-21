@@ -1,0 +1,6 @@
+framework module Lcynetworking {
+  umbrella header "Lcynetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Lcydemo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Lcydemo
+  pod 'Lcynetworking', :path => 'Lib/Lcynetworking'
+
+  target 'LcydemoTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'LcydemoUITests' do
+    # Pods for testing
+  end
+
+end
